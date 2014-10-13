@@ -9,8 +9,7 @@ Currently being used with v1.1.8.
 
 Enter your First Data StoreID and SharedSecret in the following file: 
 
-**storefront/view/default/template/responses/FirstData.tpl
-**
+**storefront/view/default/template/responses/FirstData.tpl**
 
 `$storeId = "110XXXXXXX";`
 
