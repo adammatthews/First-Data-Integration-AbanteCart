@@ -1,0 +1,111 @@
+<?xml version="1.0"?>
+<definitions>
+  <definition>
+    <key>FirstData_name</key>
+    <value><![CDATA[FirstData]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_status</key>
+    <value><![CDATA[Status:]]></value>
+  </definition>
+  <definition>
+    <key>text_success</key>
+    <value><![CDATA[Success: You have modified FirstData account details!]]></value>
+  </definition>
+  <definition>
+    <key>text_pp_standard</key>
+    <value><![CDATA[<a onclick="window.open('https://www.FirstData.com/uk/mrb/pal=W9TBB5DTD6QJW');"><img src="admin/view/default/image/payment/FirstData.png" alt="FirstData" title="FirstData" style="border: 1px solid #EEEEEE;" /></a>]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_email</key>
+    <value><![CDATA[Your FirstData Email Address:]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_test</key>
+    <value><![CDATA[Test Mode:]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_test_1</key>
+    <value><![CDATA[ Yes ]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_test_0</key>
+    <value><![CDATA[ No ]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_transaction</key>
+    <value><![CDATA[Transaction Method:]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_transaction_0</key>
+    <value><![CDATA[ Authorization ]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_transaction_1</key>
+    <value><![CDATA[ Sale ]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_order_status_id</key>
+    <value><![CDATA[Order Status:]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_location_id</key>
+    <value><![CDATA[Location:]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_location_id_0</key>
+    <value><![CDATA[All Locations]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_sort_order</key>
+    <value><![CDATA[Sort Order:]]></value>
+  </definition>
+  <definition>
+    <key>FirstData_autoselect</key>
+    <value><![CDATA[Auto Select:<br /><span class="help">You can set to skip payment selection page if there is only one payment option. This payment method will be selected automatically</span>]]></value>
+  </definition>
+	<definition>
+		<key>button_signup</key>
+		<value><![CDATA[Sign Up Now]]></value>
+	</definition>
+	<definition>
+		<key>text_confirm_email</key>
+		<value><![CDATA[Re-enter Your FirstData Email Address:]]></value>
+	</definition>
+	<definition>
+		<key>text_signup_account_note</key>
+		<value><![CDATA[<b>Don't have a FirstData account?</b> To use FirstData Payments Standard, you need a FirstData Business Account. Once you're signed up, enter your FirstData email address below to start accepting payments.]]></value>
+	</definition>
+	<definition>
+		<key>text_customize_checkout_page</key>
+		<value><![CDATA[Customize Checkout Page]]></value>
+	</definition>
+	<definition>
+		<key>text_custom_logo_preview</key>
+		<value><![CDATA[Company Logo Preview]]></value>
+	</definition>
+	<definition>
+		<key>FirstData_logoimg</key>
+		<value><![CDATA[Add Company Logo:<span class="help">Enter local path or URL to your company logo file. The logo may be a JPG, PNG, or GIF up to 190 pixels wide by 60 pixels high. This logo will appear as the header of your FirstData checkout page. </span>]]></value>
+	</definition>
+	<definition>
+		<key>FirstData_cartbordercolor</key>
+		<value><![CDATA[Enter a Background Color Code:<span class="help">It's recommended that the background color represent your brand. This color that's in your logo or that complements logo colors. Alternatively, neutral colors like black, white or gray will also create a professional look.</span>]]></value>
+	</definition>
+	<definition>
+		<key>error_confirm_email</key>
+		<value><![CDATA[FirstData email addresses do not match.]]></value>
+	</definition>
+	<definition>
+		<key>text_FirstData_email_note</key>
+		<value><![CDATA[To start accepting payments, enter your FirstData email address. In order for you to receive payments, this email address must be the same one you use when signing into your FirstData account.]]></value>
+	</definition>	
+	<definition>
+		<key>heading_required_settings</key>
+		<value><![CDATA[Required to accept payment]]></value>
+	</definition>
+	<definition>
+		<key>heading_optional_settings</key>
+		<value><![CDATA[Optional Settings]]></value>
+	</definition>
+</definitions>
